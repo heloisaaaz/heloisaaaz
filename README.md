@@ -1,7 +1,5 @@
 # Sobre mim:
 -   Oi, eu sou @heloisaaaz
-- 👀 I’m interested in  aprender a programar novas linguagens
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-   
+- 👀 Meu email de contato é heloisa.kellide.oliveira@escola.pr.gov.br 
+- 🌱 Eu estou interessada em aprender a programar novas linguaagens.
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
